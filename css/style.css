@@ -60,7 +60,8 @@
   #bio-image {
     width: 175px;
     height: 175px;
-    border-radius: 50%;
+    border-radius: 50%; 
+    object-fit: cover;
     margin-bottom: 25px;
   }
   
